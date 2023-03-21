@@ -1,0 +1,47 @@
+
+body{
+    background-color: aliceblue;
+}
+.feedback{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 73px;
+}
+
+.message{
+    width: 60%;
+    height: 410px;
+    line-height: 40px;
+}
+
+.answer{
+    width: 30%;
+
+}
+
+.formm{
+    line-height: 30px;
+    font-size: 20px;
+    position: absolute;
+    right: 40px;
+    top: 60px;
+}
+
+.form_inputter{
+    padding: 10px;
+    width: 350px;
+}
+
+.input_submitter{
+    width: 120px;
+}
+
+.mess{
+    display: flex;
+    font-size: 25px;
+    line-height: 50px;
+}
+
+.mess_left{
+    font-weight: 900;
+}
